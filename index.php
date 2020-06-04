@@ -12,7 +12,7 @@
 	<body>
 		<header>
 			<h1>Главный заголовок</h1>
-			<small>Подзаголовок или текст</small>
+			<small>Подзаголовок</small>
 		</header>
 	</body>
 </html>
